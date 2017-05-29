@@ -10,15 +10,16 @@
   "description": "I suck writing these.",
   "dependencies": {
     "coffee-script": ">= 1.12.x",
+    "handlebars": ">= 4.0.x",
     "hubot": ">= 2.19.x",
+    "hubot-conversation": ">= 1.1.x",
+    "hubot-help": ">= 0.2.x",
     "hubot-redis-brain": ">= 0.0.3",
     "hubot-slack": ">= 4.3.x",
-    "hubot-help": ">= 0.2.x",
-    "winston": ">= 2.3.x",
-    "promise": ">= 7.1.x",
+    "lodash": ">= 4.17.x",
     "moment": ">= 2.18.x",
-    "handlebars": ">= 4.0.x",
-    "lodash": ">= 4.17.x"
+    "promise": ">= 7.1.x",
+    "winston": ">= 2.3.x"
   },
   "engines": {
     "node": ">= 6.10.x",
